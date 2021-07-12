@@ -41,7 +41,7 @@ export default function Home() {
   <MainGrid>
     <div className= "profileArea" style= {{ gridArea: 'profileArea'}}>
       <Box>
-        Imagem
+        <img src="https://github.com/gabinag.png"/>
       </Box>
     </div>
 
